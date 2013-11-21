@@ -1,0 +1,183 @@
+file terrain_tiles.png 32 32
+
+clear 0 0
+clear 1 0
+dark-clear 2 0
+dark-clear 3 0
+status 4 0
+clear-transition-n 5 0
+clear-transition-n 6 0
+clear-transition-s 7 0
+clear-transition-s 8 0
+clear-transition-w 9 0
+clear-transition-e 10 0
+
+
+
+road-ew 0 1
+road-ns 1 1
+road-turn-en 2 1
+road-turn-es 3 1
+road-turn-wn 4 1
+road-turn-ws 5 1
+
+safe-decoration 7 1
+safe-decoration 8 1
+safe-decoration 9 1
+safe-decoration 10 1
+safe-decoration 11 1
+safe-decoration 12 1
+safe-decoration 13 1
+safe-decoration 14 1
+safe-decoration 15 1
+
+lair 0 2
+ruin 1 2
+
+wild-decoration 2 2
+wild-decoration 3 2
+wild-decoration 4 2
+wild-decoration 5 2
+wild-decoration 6 2
+
+
+village 16 2
+village 17 2
+
+
+wild-decoration 2 3
+wild-decoration 3 3
+wild-decoration 4 3
+wild-decoration 5 3
+
+
+level-1 7 3
+level-2 8 3
+level-3 9 3
+level-4 10 3
+level-5 11 3
+level-6 12 3
+level-7 13 3
+level-8 14 3
+level-9 15 3
+
+
+
+
+floor 0 4
+floor 1 4
+floor 2 4
+floor 3 4
+hero-slot 4 4
+entering-slot 5 4
+selection 6 4 
+reachable 8 4
+attackable 9 4
+exit-space 10 4
+
+corner-left 0 5
+corner-right 1 5
+lantern-back 2 5
+lantern-left 3 5
+lantern-right 4 5
+
+wall-back 0 6
+wall-left 1 6
+wall-right 2 6
+
+dialogue 4 6
+dialogue-border-left 5 6
+dialogue-border-right 6 6
+dialogue-border-top 7 6
+dialogue-border-bottom 8 6
+dialogue-border-top-left 9 6
+dialogue-border-bottom-right 10 6
+dialogue-border-top-right 11 6
+dialogue-border-bottom-left 12 6
+
+sign-dismiss 0 7 64 32
+sign-hire 2 7 64 32
+sign-yes 4 7 64 32
+sign-no 6 7 64 32
+sign-village 8 7 64 32
+
+sign-exit 0 8 64 32
+sign-enter 2 8 64 32
+sign-pass 4 8 64 32
+sign-auto 6 8 64 32
+sign-ok 8 8 64 32
+
+entrance-wall 0 10
+entrance 1 10 128 64
+dirt-doodad 6 10
+dirt-doodad 7 10
+dirt-doodad 8 10
+
+dirt 0 11
+dirt-doodad 6 11
+dirt-doodad 7 11
+dirt-doodad 8 11
+
+dungeon-floor 0 13
+dungeon-floor 1 13
+dungeon-floor 2 13
+dungeon-floor 3 13
+dungeon-floor 4 13
+dungeon-floor 5 13
+dungeon-floor 6 13
+dungeon-floor 7 13
+
+dungeon-wall-a 0 14
+dungeon-wall-a 1 14
+dungeon-wall-a 2 14
+dungeon-wall-a 3 14
+dungeon-wall-a 4 14
+dungeon-wall-a 5 14
+dungeon-wall-a 6 14
+dungeon-wall-a 7 14
+
+
+dungeon-wall-b 0 15
+dungeon-wall-b 1 15
+dungeon-wall-b 2 15
+dungeon-wall-b 3 15
+dungeon-wall-b 4 15
+dungeon-wall-b 5 15
+dungeon-wall-b 6 15
+dungeon-wall-b 7 15
+
+dungeon-wall-c 0 16
+dungeon-wall-c 1 16
+dungeon-wall-c 2 16
+dungeon-wall-c 3 16
+dungeon-wall-c 4 16
+dungeon-wall-c 5 16
+dungeon-wall-c 6 16
+dungeon-wall-c 7 16
+
+dungeon-wall-d 0 17
+dungeon-wall-d 1 17
+dungeon-wall-d 2 17
+dungeon-wall-d 3 17
+dungeon-wall-d 4 17
+dungeon-wall-d 5 17
+dungeon-wall-d 6 17
+dungeon-wall-d 7 17
+
+dungeon-wall-e 0 18
+dungeon-wall-e 1 18
+dungeon-wall-e 2 18
+dungeon-wall-e 3 18
+dungeon-wall-e 4 18
+dungeon-wall-e 5 18
+dungeon-wall-e 6 18
+dungeon-wall-e 7 18
+
+dungeon-wall-f 0 19
+dungeon-wall-f 1 19
+dungeon-wall-f 2 19
+dungeon-wall-f 3 19
+dungeon-wall-f 4 19
+dungeon-wall-f 5 19
+dungeon-wall-f 6 19
+dungeon-wall-f 7 19

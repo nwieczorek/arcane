@@ -1,0 +1,19 @@
+
+Sprites are taken from http://opengameart.org.
+
+All character/creature sprites and most of the background sprites are taken from http://opengameart.org/content/dungeon-crawl-32x32-tiles.
+Part of (or All) the graphic tiles used in this program is the Public domain roguelike tileset "RLTiles". Some of the tiles have been modified by Nicholas Wieczorek. You can find the original tileset at: http://rltiles.sf.net You can find Dungeon Crawl Stone Soup modified tilesets at: http://code.google.com/p/crawl-tiles/downloads/list
+
+
+
+Some background sprites taken from
+http://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis
+http://opengameart.org/content/browserquest-sprites-and-tiles (village)
+
+
+
+Fonts taken from www.fontsquirrel.com.
+for Kells font, please see "Steve Deffeyes Font License.txt"
+
+for New Rocker font, please see "SIL OFL Font License New Rocker.txt"
+

@@ -1,0 +1,88 @@
+file characters.png 32 32
+
+warrior 0 0 
+sorcerer 1 0
+archer 2 0
+priest 3 0
+wizard 4 0
+enchanter 5 0
+witch 6 0
+
+orc-warrior 0 1
+orc-mage 1 1
+orc-crossbowman 2 1
+naga-archer 3 1
+naga-shaman 4 1
+naga-warrior 5 1
+
+
+
+unready 5 2
+
+
+kobold-spearman 0 3 
+kobold-warrior 1 3
+
+goblin-warrior 2 3
+goblin-champion 3 3
+goblin-shaman 4 3
+
+ogre-warrior 10 3
+ogre-shaman 11 3
+ogre-two-headed 12 3
+
+
+brain 0 4
+beholder 2 4
+jelly 3 4
+polyp 4 4
+jelly 6 4
+jellyfish 8 4
+
+
+blood 0 10
+blood 1 10
+blood 2 10
+
+green-missile 0 11
+green-flash 1 11
+
+arrow-u 0 12
+arrow-ur 1 12
+arrow-r 2 12
+arrow-dr 3 12
+arrow-d 4 12
+arrow-dl 5 12
+arrow-l 6 12
+arrow-ul 7 12
+
+stone-u 9 12
+stone-ur 9 12
+stone-r 9 12
+stone-dr 9 12
+stone-d 9 12
+stone-dl 9 12
+stone-l 9 12
+stone-ul 9 12
+
+spear-u 0 13
+spear-ur 1 13
+spear-r 2 13
+spear-dr 3 13
+spear-d 4 13
+spear-dl 5 13
+spear-l 6 13
+spear-ul 7 13
+
+orange-u 0 14
+orange-d 0 14
+orange-l 0 14
+orange-r 0 14
+orange-ur 0 14
+orange-dr 0 14
+orange-ul 0 14
+orange-dl 0 14
+orange-flash 1 14
+blue-missile 2 14
+blue-flash 3 14
+
